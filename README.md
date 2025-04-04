@@ -6,9 +6,13 @@
 - 🌱 **Aprendendo** JavaScript e desenvolvimento web  
 - 🔍 **Em busca de** oportunidades na área de programação  
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraweiand&show_icons=true&theme=dracula&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraweiand&layout=compact&theme=dracula)  
+## 📊 GitHub Stats
+<div align="left">
+  <a href="https://github.com/saraweiand">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=saraweiand&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraweiand&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
 ## 🛠️ Tecnologias  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
