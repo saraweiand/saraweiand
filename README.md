@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim  
 - 💼 **Atualmente trabalhando como** Tester II  
-- 🌱 **Aprendendo** JavaScript, Python, SQL e Node.js
+- 🌱 **Aprendendo** JavaScript, C# e Python
 - 🔍 **Em busca de** oportunidades na área de programação/desenvolvimento web, fullstack e back-end
 
 ## 📊 GitHub Stats
