@@ -1,7 +1,7 @@
 # 👩‍💻 Sara Weiand | Desenvolvedora em Formação  
 
 ## 🚀 Sobre Mim  
--💼 Atualmente trabalhando como Tester II na Paradigma Business Solution
+- 💼 Atualmente trabalhando como Tester II na Paradigma Business Solution
 - 🌱 Em transição para Desenvolvimento de Software, atuando em correções de backlog e sustentação
 - 📚 Estudante de Engenharia de Software
 - 💡 Interesses: Desenvolvimento Web, Fullstack e Back-End
