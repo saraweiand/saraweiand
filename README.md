@@ -1,9 +1,10 @@
 # 👩‍💻 Sara Weiand | Desenvolvedora em Formação  
 
 ## 🚀 Sobre Mim  
-- 💼 **Atualmente trabalhando como** Tester II  
-- 🌱 **Aprendendo** JavaScript, C# e Python
-- 🔍 **Em busca de** oportunidades na área de programação/desenvolvimento web, fullstack e back-end
+-💼 Atualmente trabalhando como Tester II na Paradigma Business Solution
+- 🌱 Em transição para Desenvolvimento de Software, atuando em correções de backlog e sustentação
+- 📚 Estudante de Engenharia de Software
+- 💡 Interesses: Desenvolvimento Web, Fullstack e Back-End
 
 ## 📊 GitHub Stats
 <div align="left">
@@ -13,7 +14,7 @@
 </div>
 
 ## 🛠️ Tecnologias  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-DD4C35?style=flat&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-DD4C35?style=flat&logo=git&logoColor=white)
 
 
 ## 📫 Contatos  
