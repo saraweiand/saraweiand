@@ -1,8 +1,8 @@
-# 👩‍💻 Sara Weiand | Desenvolvedora em Formação  
+# 👩‍💻 Sara Weiand | Desenvolvedora Júnior Fullstack  
 
 ## 🚀 Sobre Mim  
-- 💼 Atualmente trabalhando como Tester II na Paradigma Business Solution
-- 🌱 Em transição para Desenvolvimento de Software, atuando em correções de backlog e sustentação
+- 💼 Trabalhando como Desenvolvedora Júnior Fullstack na Paradigma Business Solution
+- 🌱 Atuando com C#, React com Typescript e SQL
 - 📚 Estudante de Engenharia de Software
 - 💡 Interesses: Desenvolvimento Web, Fullstack e Back-End
 
